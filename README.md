@@ -7,6 +7,8 @@ AutoResponderX is a Termux tool designed to automate responses to messages recei
 ### 1. Prerequisites
 - An Android device with Termux installed
 - Access to the WhatsApp Business API
+- https://www.whatsapp.com/business/api
+- And navigate to the section for developers or API documentation.
 
 ### 2. Installation
 
